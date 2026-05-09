@@ -4,7 +4,7 @@
 
 I am a Senior Data Engineer with over 6+  years of experience designing and building enterprise-scale data platforms. I specialize in modern architectures, particularly Databricks Data Lakehouse environments, and I am passionate about the intersection of Data Engineering and Quantum Computing.
 
-- 👀 **I’m interested in:** - Data Engineering & Lakehouse Architecture (Unity Catalog, Delta Live Tables, Auto Loader)
+- 👀 **I’m interested in:** - Data Engineering & Lakehouse Architecture (Unity Catalog, Delta Live Tables, Auto Loader\ (Databricks is very busy changing names))
   - Snowflake, dbt(Waiting for the update name here) 
   - Quantum Computing (Qiskit & Qrisp)
   - AI & Business Applications
