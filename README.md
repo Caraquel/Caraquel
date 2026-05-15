@@ -14,12 +14,12 @@ I am a Senior Data Engineer with over 6+  years of experience designing and buil
   - Participating in the **Fujitsu Quantum Simulator Challenge 2025-26**
 
 - 💞️ **I’m looking to collaborate on:** - Quantum-Integrated Optimization projects (like **Quantum-Ice Victoria**)
-  - Open-source Data Engineering workflows in PySpark and Databricks , DuckDB
+  - Open-source Data Engineering workflows in PySpark and Databricks, DuckDB
   - Community-driven Quantum Computing initiatives
 
 - 📬 **How to reach me:**
   - 📧 Email: [caraque465@hotmail.com](mailto:caraque465@hotmail.com)
-  - ✍️ Read my technical articles on **Medium**
+  - ✍️ Work in progress
   - 📺
 
 - 📍 Based in **Australia** 🇦🇺
